@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey, I'm Pat! 👋
 
-<!--
-**ptak-dev/ptak-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Developer & Builder** | Shipping AI-powered tools in public
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
+
+- 🔨 Building AI-powered developer tools and web applications
+- 🚀 Sharing everything I learn along the way — wins and fails
+- 💡 Turning ideas into shipped products, fast
+- 🤝 Always open to collaborate on interesting projects
+
+### Tech Stack
+
+`Python` `JavaScript` `TypeScript` `React` `Node.js` `AI/LLMs` `Cloud`
+
+### Currently
+
+- 🔭 Working on AI-powered career tools and developer utilities
+- 🌱 Exploring the latest in AI agents and automation
+- ✍️ Tweeting dev tips, hot takes, and build updates
+
+### Connect
+
+- 🐦 Twitter/X: [@ptak_dev](https://x.com/ptak_dev)
+
+---
+
+*Building in public, one commit at a time.*
